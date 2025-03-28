@@ -1,11 +1,11 @@
-import ProductList from "@/modules/products/components/ProductList";
+import ProductList from '@/modules/products/components/ProductList';
 
 const ProductListView = () => {
-    return (
-        <div>
-            <ProductList />
-        </div>
-    )
-}
+  return (
+    <div>
+      <ProductList />
+    </div>
+  );
+};
 
 export default ProductListView;
